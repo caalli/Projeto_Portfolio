@@ -100,7 +100,7 @@ html, body{
     
 section#inicio {
 
-    background-image: url("./img/01bf1060-9a88-4585-9930-077e9fad32fb.jfif");
+    background-image: url("./img/bannerPortifolio.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -204,4 +204,9 @@ background-color: #fff;
 
         background-color: #252c90;
         border-radius: 10%;
+}
+
+.section-bg{
+
+    background-color: #eff5ff;
 }
